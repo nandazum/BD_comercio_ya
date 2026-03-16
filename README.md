@@ -1,7 +1,10 @@
 
 -- Sistema: Gestión de Ventas
+
 -- Empresa: Comercio Ya
+
 -- Propósito: Registrar clientes, productos y ventas
+
 -- Base de datos relacional para análisis de transacciones comerciales
 
 
